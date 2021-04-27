@@ -1,1 +1,2 @@
-console.
+//LOLXD
+console.log("Cendrassos");
